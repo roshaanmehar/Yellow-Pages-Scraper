@@ -59,6 +59,7 @@ The extracted data is stored in `yellow_pages_scraped_data.json` in the followin
 ]
 ````
 - This is an image of the data format:
+- <br>
   <img src="https://github.com/roshaanmehar/Yellow-Pages-Scraper/blob/main/Screenshot%202025-02-08%20195850.png" height="300">
 
 - This is an image of the script while running:
