@@ -64,8 +64,8 @@ The extracted data is stored in `yellow_pages_scraped_data.json` in the followin
 
 ## This is the website which is to be scraped:
 <div>
-    <img src="https://github.com/roshaanmehar/Yellow-Pages-Scraper/blob/main/Screenshot%202025-02-08%20235113.png" width="400">
-<img src="https://github.com/roshaanmehar/Yellow-Pages-Scraper/blob/main/Screenshot%202025-02-08%20235126.png" width="400">
+    <img src="https://github.com/roshaanmehar/Yellow-Pages-Scraper/blob/main/Screenshot%202025-02-08%20235113.png" width="550">
+<img src="https://github.com/roshaanmehar/Yellow-Pages-Scraper/blob/main/Screenshot%202025-02-08%20235126.png" width="550">
 </div>
 
 - This is an image of the script while running:
