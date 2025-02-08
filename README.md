@@ -62,5 +62,26 @@ The extracted data is stored in `yellow_pages_scraped_data.json` in the followin
 - <br>
   <img src="https://github.com/roshaanmehar/Yellow-Pages-Scraper/blob/main/Screenshot%202025-02-08%20195850.png" height="300">
 
+## This is the website which is to be scraped:
+<div>
+    <img src="https://github.com/roshaanmehar/Yellow-Pages-Scraper/blob/main/Screenshot%202025-02-08%20235113.png" height="400">
+<img src="https://github.com/roshaanmehar/Yellow-Pages-Scraper/blob/main/Screenshot%202025-02-08%20235126.png" height="400">
+</div>
+
 - This is an image of the script while running:
   <img src="https://github.com/roshaanmehar/Yellow-Pages-Scraper/blob/main/Screenshot%202025-02-08%20195603.png" height="400">
+
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for more details.
+
+---
+
+## Contributing
+
+Contributions are welcome! Please open issues or submit pull requests on the GitHub repository.
+
+---
+
+## Disclaimer
+This project is for educational purposes only. Scraping websites may violate their terms of service; use it responsibly.
